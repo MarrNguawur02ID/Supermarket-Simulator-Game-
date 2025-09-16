@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: #f6f6f6;
+    color: #222;
+    padding: 20px;
+}
+#game {
+    max-width: 600px;
+    margin: auto;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 7px #ddd;
+}
+#status, #customer, #actions, #inventory, #log {
+    margin-bottom: 20px;
+}
+button {
+    margin-right: 8px;
+    margin-bottom: 5px;
+    padding: 6px 14px;
+    font-size: 1em;
+}
